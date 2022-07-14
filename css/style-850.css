@@ -28,6 +28,9 @@
     height: 40%;
   }
 
+  .list-container div{
+    width: 22%;
+  }
 
   .d-modal-contents h2 {
     font-size: 2rem;
@@ -52,7 +55,7 @@
   }
 
   .list-container strong{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 
 
