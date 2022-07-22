@@ -35,7 +35,13 @@
     "complications":{
       "backgroundImage": {
         "src": "images/symptoms_background.svg"
-      }
+      },
+      "collection": [
+        {"name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
+        {"name": "Meningitis", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Meningoencephalitis", "abstract": "", "img": "images/icons/ic_menincef.svg"},
+        {"name": "Spontaneous abortion, intrauterine death, premature birth", "abstract": "(In pregnant women)", "img": "images/icons/ic_abortion.svg"}
+      ]
     }
   },
   "animals": {
